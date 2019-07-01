@@ -1,0 +1,11 @@
+# ---------------------------------------------------------------------------------------------------------------------
+# Vmware Variables
+# ---------------------------------------------------------------------------------------------------------------------
+datacenter        = "" # Name of datacenter to deploy to
+datastore         = "" # name of data store to deploy machine to
+cluster           = "" # name of cluster to deploy to
+network           = "" # name of network to join machine to
+template_name     = "" # name of vmware template to base machine image from
+vsphere_server    = "" # IP address or name of vsphere server
+vsphere_user      = "" # vsphere username
+vsphere_password  = "" # vsphere password
